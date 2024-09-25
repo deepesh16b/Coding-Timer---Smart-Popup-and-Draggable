@@ -2,6 +2,8 @@
 
 A versatile and customizable timer extension designed to help you effectively manage your coding practice on various coding platforms such as LeetCode, CodeChef, and CodeForces. The timer automatically pops up when you open a problem on any of these platforms, allowing you to set and track your time. It is draggable and easy to use, helping you focus on improving your coding skills within a structured timeframe.
 
+### https://chromewebstore.google.com/detail/coding-timer-smart-popup/iplfjibbehlfjecppfddeaicdcgjgoap
+
 ## Features
 - Automatically pops up when opening coding problems on supported platforms.
 - Draggable timer that can be positioned anywhere on the screen.
